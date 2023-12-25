@@ -10,13 +10,11 @@
 .header {
   width: 1024px;
   height: 768px;
-  border: 1px solid red;
   background: var(--bacckground-url);
   background-size: cover;
 }
 
 .header__theme-menu {
-  border: 1px solid red;
   width: 230px;
   margin: auto;
   margin-top: 20px;
@@ -79,8 +77,6 @@
 
 .focus {
   width: 100%;
-
-  border: 1px solid green;
   display: flex;
   justify-content: space-between;
   padding-left: 20px;
@@ -91,7 +87,6 @@
 
 .focus .articles {
   width: 649px;
-  border: 1px solid white;
 }
 
 .focus.article:last-child {
@@ -128,12 +123,10 @@
 
   font-weight: 700;
   line-height: 23.4px; /* 130% */
-  border: 1px solid yellow;
 }
 
 .concentration {
   width: 1024px;
-  border: 1px solid red;
   padding-left: 20px;
   padding-right: 20px;
 }
@@ -157,7 +150,6 @@
 
 .advice {
   width: 1024px;
-  border: 1px solid red;
   display: flex;
   justify-content: space-between;
   margin-top: 80px;
@@ -176,7 +168,6 @@
 .gallery {
   width: 1024px;
   height: 1091px;
-  border: 1px solid red;
 }
 
 .gallery .section-title {
@@ -187,7 +178,6 @@
 .images {
   width: 984px;
   height: 1048px;
-  border: 1px solid red;
   margin: auto;
   display: grid;
   grid-template-areas:
@@ -241,7 +231,6 @@
 .footer {
   width: 1024px;
   height: 768px;
-  border: 1px solid red;
   margin-top: 60px;
 }
 
