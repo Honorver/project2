@@ -5,12 +5,12 @@
 */
 
 .page.theme_dark {
-  --site-background: #000028;
-  --title-calor: #db00ff;
-  --section-title: #ff0070;
-  --text-bacground: #ff0070;
-  --article-text: #f1b2ce;
-  --article-title: #000028;
+  --site-background: #001d3d;
+  --title-calor: #ffd60a;
+  --section-title: #ffc300;
+  --text-bacground: #ee9b00;
+  --article-text: #ffd60a;
+  --article-title: #001d3d;
   --background-url: url(../images/cover-image-dark.png);
   --display: block;
 }
